@@ -33,6 +33,11 @@ Python notebooks were used to conduct EDA, analyzing key variables, calculating 
 
 Both SQL and Python analyses provided valuable insights into user behavior within the Waze app. The findings suggest potential enhancements to improve user experience and strategies for reducing churn rates.
 
+## Key Insights
+
+- **User Behavior Patterns:** Users who churned tended to drive longer distances in fewer days compared to retained users. They also exhibited differences in app usage frequency.
+- **Device Impact:** Churn rates did not significantly differ between Android and iPhone users, indicating device type might not directly influence churn.
+
 ## How to Explore the Analysis
 
 1. **SQL Analysis:** The SQL queries used in the analysis are documented in the provided SQL file. You can run these queries against your database to replicate the analysis.
